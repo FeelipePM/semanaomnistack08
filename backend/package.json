@@ -9,6 +9,7 @@
   "dependencies": {
     "axios": "^0.21.2",
     "cors": "^2.8.5",
+    "engine.io": "^6.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.7.5",
     "socket.io": "^2.4.0"
